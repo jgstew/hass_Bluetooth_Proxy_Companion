@@ -1,6 +1,6 @@
 ### HA Bluetooth Proxy
 
-Companion App which sends discovered BLE devices information to the `Companion Bluetooth Proxy` custom component of Home Assistant
+Companion App which sends discovered BLE devices information to the `Companion Bluetooth Proxy` custom component of Home Assistant, which is found here: https://github.com/kvj/hass_Bluetooth_Proxy
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
      alt="Get it on F-Droid"
